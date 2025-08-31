@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build directories
+dist/
+build/
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Debug files
+*.tgz
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# Parcel-bundler
+.cache/
+
+# Others
+.pnp/
+.pnp.js
